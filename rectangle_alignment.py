@@ -1,7 +1,6 @@
 
 import cv2
 import numpy as np
-import matplotlib.pyplot as plt
 import math
 from scipy.ndimage import rotate as rotate_image
 from PIL import Image, ImageDraw
